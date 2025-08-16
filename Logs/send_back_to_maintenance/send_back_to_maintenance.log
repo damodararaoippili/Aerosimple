@@ -1,0 +1,12 @@
+2025-08-13 23:46:45,044-INFO-Test data loaded successfully.
+2025-08-13 23:46:50,178-INFO-Closed modal if present.
+2025-08-13 23:46:50,326-INFO-Clicked on Apps.
+2025-08-13 23:46:51,156-INFO-Clicked on module: Work Orders
+2025-08-13 23:46:51,444-INFO-Clicked on sub module: Airfield Work Orders
+2025-08-13 23:47:01,760-WARNING-Work order with status 'Operations Review' not found.
+2025-08-16 13:41:18,308-INFO-Test data loaded successfully.
+2025-08-16 13:41:24,409-INFO-Closed modal if present.
+2025-08-16 13:41:24,632-INFO-Clicked on Apps.
+2025-08-16 13:41:25,704-INFO-Clicked on module: Work Orders
+2025-08-16 13:41:26,854-INFO-Clicked on sub module: Airfield Work Orders
+2025-08-16 13:41:37,061-WARNING-Work order with status 'Operations Review' not found.

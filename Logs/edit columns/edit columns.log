@@ -1,0 +1,33 @@
+2025-08-13 23:30:21,310-INFO-Test data loaded successfully.
+2025-08-13 23:30:29,014-INFO-click on apps button
+2025-08-13 23:30:31,270-INFO-click on module: Work Orders
+2025-08-13 23:30:31,585-INFO-click on sub module :Airfield Work Orders
+2025-08-13 23:30:35,023-INFO-edit columns:['WORK ORDER #', 'LOGGED BY', 'CATEGORY', 'STATUS', 'REPORTED DATE', 'PRIORITY']
+2025-08-13 23:30:40,403-INFO-click on Actions
+2025-08-13 23:30:40,591-INFO-click on edit columns
+2025-08-13 23:30:40,829-INFO-failed to click and enter input to search bar
+2025-08-13 23:30:40,988-INFO-failed to select edit column :Description
+2025-08-13 23:30:41,196-INFO-failed to click on apply button
+2025-08-13 23:30:41,325-INFO-edit columns:['WORK ORDER #', 'LOGGED BY', 'CATEGORY', 'STATUS', 'REPORTED DATE', 'PRIORITY', 'DESCRIPTION']
+2025-08-13 23:39:18,664-INFO-Test data loaded successfully.
+2025-08-13 23:39:23,551-INFO-click on apps button
+2025-08-13 23:39:25,212-INFO-click on module: Work Orders
+2025-08-13 23:39:25,506-INFO-click on sub module :Airfield Work Orders
+2025-08-13 23:39:25,644-INFO-edit columns:['WORK ORDER #', 'LOGGED BY', 'CATEGORY', 'STATUS', 'REPORTED', 'PRIORITY']
+2025-08-13 23:39:30,811-INFO-click on Actions
+2025-08-13 23:39:30,983-INFO-click on edit columns
+2025-08-13 23:39:31,225-INFO-failed to click and enter input to search bar
+2025-08-13 23:39:31,371-INFO-failed to select edit column :Description
+2025-08-13 23:39:31,564-INFO-failed to click on apply button
+2025-08-13 23:39:31,730-INFO-edit columns:['WORK ORDER #', 'LOGGED BY', 'CATEGORY', 'STATUS', 'REPORTED DATE', 'PRIORITY', 'DESCRIPTION']
+2025-08-16 13:33:48,700-INFO-Test data loaded successfully.
+2025-08-16 13:33:53,517-INFO-click on apps button
+2025-08-16 13:33:55,202-INFO-click on module: Work Orders
+2025-08-16 13:33:55,611-INFO-click on sub module :Airfield Work Orders
+2025-08-16 13:34:00,874-INFO-edit columns:['WORK ORDER #', 'LOGGED BY', 'CATEGORY', 'STATUS', 'REPORTED DATE', 'PRIORITY']
+2025-08-16 13:34:06,235-INFO-click on Actions
+2025-08-16 13:34:06,419-INFO-click on edit columns
+2025-08-16 13:34:06,607-INFO-failed to click and enter input to search bar
+2025-08-16 13:34:06,682-INFO-failed to select edit column :Description
+2025-08-16 13:34:06,882-INFO-failed to click on apply button
+2025-08-16 13:34:07,009-INFO-edit columns:['WORK ORDER #', 'LOGGED BY', 'CATEGORY', 'STATUS', 'REPORTED DATE', 'PRIORITY', 'DESCRIPTION']

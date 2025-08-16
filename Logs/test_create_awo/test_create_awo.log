@@ -1,0 +1,58 @@
+2025-08-13 23:38:05,972-INFO-Starting test: Create Airfield Work Order
+2025-08-13 23:38:05,979-INFO-Test data loaded successfully.
+2025-08-13 23:38:14,174-INFO-Clicked on Apps
+2025-08-13 23:38:16,938-INFO-Clicked on module: Work Orders
+2025-08-13 23:38:17,207-INFO-Clicked on sub-module: Airfield Work Orders
+2025-08-13 23:38:22,518-INFO-Clicked on New Work Order
+2025-08-13 23:38:22,686-INFO-Selected priority: High
+2025-08-13 23:38:22,861-INFO-Selected category: Wildlife Hazards
+2025-08-13 23:38:23,097-INFO-Selected sub-category: Dead birds
+2025-08-13 23:38:23,267-INFO-Clicked on location pointer icon
+2025-08-13 23:38:33,870-INFO-Clicked on map
+2025-08-13 23:38:34,867-INFO-Entered description: In this area, some problem detected need to be checked.
+2025-08-13 23:38:35,153-INFO-Entered Name: Prasad
+2025-08-13 23:38:35,326-INFO-Entered Number: 4612
+2025-08-13 23:38:35,483-INFO-Selected from dropdown: GHI
+2025-08-13 23:38:35,603-INFO-Checked the checkbox
+2025-08-13 23:38:35,909-INFO-Selected System User: Prasad QA
+2025-08-13 23:38:36,103-INFO-Entered Name Field: Shiva
+2025-08-13 23:38:36,257-INFO-Entered Number Field: 4512
+2025-08-13 23:38:36,391-INFO-Clicked on date field
+2025-08-13 23:38:36,576-INFO-Selected date: 26
+2025-08-13 23:38:36,786-INFO-Selected from Selection Field: 10
+2025-08-13 23:38:37,036-INFO-Selected property: Property K
+2025-08-13 23:38:47,768-INFO-Selected company name: Bill Matthews
+2025-08-13 23:38:50,641-INFO-Selected location levels
+2025-08-13 23:38:50,804-INFO-Selected wildlife type: Bird
+2025-08-13 23:38:50,984-INFO-Selected wildlife species: Blue Jay
+2025-08-13 23:38:56,355-INFO-Clicked Create button successfully.
+2025-08-13 23:38:56,356-INFO-Test completed successfully.
+2025-08-16 13:32:44,275-INFO-Starting test: Create Airfield Work Order
+2025-08-16 13:32:44,283-INFO-Test data loaded successfully.
+2025-08-16 13:32:52,578-INFO-Clicked on Apps
+2025-08-16 13:32:53,777-INFO-Clicked on module: Work Orders
+2025-08-16 13:32:54,107-INFO-Clicked on sub-module: Airfield Work Orders
+2025-08-16 13:32:59,775-INFO-Clicked on New Work Order
+2025-08-16 13:32:59,955-INFO-Selected priority: High
+2025-08-16 13:33:00,094-INFO-Selected category: Wildlife Hazards
+2025-08-16 13:33:00,259-INFO-Selected sub-category: Dead birds
+2025-08-16 13:33:00,355-INFO-Clicked on location pointer icon
+2025-08-16 13:33:11,111-INFO-Clicked on map
+2025-08-16 13:33:12,427-INFO-Entered description: In this area, some problem detected need to be checked.
+2025-08-16 13:33:12,625-INFO-Entered Name: Prasad
+2025-08-16 13:33:12,762-INFO-Entered Number: 4612
+2025-08-16 13:33:12,859-INFO-Selected from dropdown: GHI
+2025-08-16 13:33:12,934-INFO-Checked the checkbox
+2025-08-16 13:33:13,108-INFO-Selected System User: Prasad QA
+2025-08-16 13:33:13,252-INFO-Entered Name Field: Shiva
+2025-08-16 13:33:13,365-INFO-Entered Number Field: 4512
+2025-08-16 13:33:13,445-INFO-Clicked on date field
+2025-08-16 13:33:13,539-INFO-Selected date: 26
+2025-08-16 13:33:13,647-INFO-Selected from Selection Field: 10
+2025-08-16 13:33:13,811-INFO-Selected property: Property K
+2025-08-16 13:33:24,353-INFO-Selected company name: Bill Matthews
+2025-08-16 13:33:26,121-INFO-Selected location levels
+2025-08-16 13:33:26,228-INFO-Selected wildlife type: Bird
+2025-08-16 13:33:26,344-INFO-Selected wildlife species: Blue Jay
+2025-08-16 13:33:31,549-INFO-Clicked Create button successfully.
+2025-08-16 13:33:31,549-INFO-Test completed successfully.

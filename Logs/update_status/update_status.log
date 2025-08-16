@@ -1,0 +1,20 @@
+2025-08-13 23:48:03,546-INFO-Test data loaded successfully.
+2025-08-13 23:48:08,390-INFO-Clicked on Apps.
+2025-08-13 23:48:10,069-INFO-Clicked on Module: Work Orders
+2025-08-13 23:48:10,331-INFO-Clicked on Sub Module: Airfield Work Orders
+2025-08-13 23:48:16,137-INFO-click on filters
+2025-08-13 23:48:16,335-INFO-click on clear filters
+2025-08-13 23:48:21,751-INFO-click on apply 
+2025-08-13 23:48:22,200-INFO-Work order with status 'In Progress' found and opened
+2025-08-13 23:48:27,631-INFO-click on update status
+2025-08-13 23:48:43,264-INFO-work order update status :In Progress
+2025-08-16 13:42:42,894-INFO-Test data loaded successfully.
+2025-08-16 13:42:49,174-INFO-Clicked on Apps.
+2025-08-16 13:42:50,428-INFO-Clicked on Module: Work Orders
+2025-08-16 13:42:53,908-INFO-Clicked on Sub Module: Airfield Work Orders
+2025-08-16 13:43:02,692-INFO-click on filters
+2025-08-16 13:43:03,009-INFO-click on clear filters
+2025-08-16 13:43:08,717-INFO-click on apply 
+2025-08-16 13:43:09,236-INFO-Work order with status 'In Progress' found and opened
+2025-08-16 13:43:14,633-INFO-click on update status
+2025-08-16 13:43:30,140-INFO-work order update status :In Progress

@@ -1,0 +1,42 @@
+2025-08-13 23:45:14,958-INFO-Test data loaded successfully.
+2025-08-13 23:45:20,079-INFO-Clicked on Apps.
+2025-08-13 23:45:21,776-INFO-Clicked on Module: Work Orders
+2025-08-13 23:45:22,044-INFO-Clicked on Sub Module: Airfield Work Orders
+2025-08-13 23:45:27,721-INFO-click on filters
+2025-08-13 23:45:27,909-INFO-click on clear filters
+2025-08-13 23:45:33,352-INFO-click on apply 
+2025-08-13 23:45:43,810-INFO-current status of work order A-73 is in Monitor Mode
+2025-08-13 23:45:43,973-INFO-Viewed work order with status: Monitor Mode
+2025-08-13 23:45:45,142-INFO-click on reassignment
+2025-08-13 23:45:45,190-INFO-click on search option
+2025-08-13 23:46:05,487-INFO-enter input to search option:Damodar Admin
+2025-08-13 23:46:05,620-INFO-click on assign
+2025-08-13 23:46:05,661-INFO-click on save button
+2025-08-13 23:46:26,607-ERROR-Test failed due to unexpected error: Assigned user mismatch: expected 'Damodar Admin', got 'None'
+assert None == 'Damodar Admin'
+Traceback (most recent call last):
+  File "C:\Users\damod\PycharmProjects\AerosimpleWebApp\tests\airfield_work_orders\test_reassignment.py", line 66, in test_reassignment
+    assert user_name == reassignment, f"Assigned user mismatch: expected '{reassignment}', got '{user_name}'"
+AssertionError: Assigned user mismatch: expected 'Damodar Admin', got 'None'
+assert None == 'Damodar Admin'
+2025-08-16 13:39:44,561-INFO-Test data loaded successfully.
+2025-08-16 13:39:50,958-INFO-Clicked on Apps.
+2025-08-16 13:39:53,247-INFO-Clicked on Module: Work Orders
+2025-08-16 13:39:53,845-INFO-Clicked on Sub Module: Airfield Work Orders
+2025-08-16 13:39:59,495-INFO-click on filters
+2025-08-16 13:40:00,175-INFO-click on clear filters
+2025-08-16 13:40:06,147-INFO-click on apply 
+2025-08-16 13:40:16,537-INFO-current status of work order A-73 is in Monitor Mode
+2025-08-16 13:40:16,708-INFO-Viewed work order with status: Monitor Mode
+2025-08-16 13:40:17,992-INFO-click on reassignment
+2025-08-16 13:40:18,040-INFO-click on search option
+2025-08-16 13:40:38,141-INFO-enter input to search option:Damodar Admin
+2025-08-16 13:40:38,231-INFO-click on assign
+2025-08-16 13:40:38,274-INFO-click on save button
+2025-08-16 13:40:58,585-ERROR-Test failed due to unexpected error: Assigned user mismatch: expected 'Damodar Admin', got 'None'
+assert None == 'Damodar Admin'
+Traceback (most recent call last):
+  File "C:\Users\damod\PycharmProjects\AerosimpleWebApp\tests\airfield_work_orders\test_reassignment.py", line 66, in test_reassignment
+    assert user_name == reassignment, f"Assigned user mismatch: expected '{reassignment}', got '{user_name}'"
+AssertionError: Assigned user mismatch: expected 'Damodar Admin', got 'None'
+assert None == 'Damodar Admin'

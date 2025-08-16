@@ -1,0 +1,28 @@
+2025-08-13 23:43:29,450-INFO-Test data loaded successfully.
+2025-08-13 23:43:34,247-INFO-Clicked on Apps.
+2025-08-13 23:43:36,439-INFO-Clicked on Module: Work Orders
+2025-08-13 23:43:36,661-INFO-Clicked on Sub Module: Airfield Work Orders
+2025-08-13 23:43:42,199-INFO-click on filters
+2025-08-13 23:43:42,491-INFO-click on clear filters
+2025-08-13 23:43:47,910-INFO-click on apply 
+2025-08-13 23:43:58,414-INFO-current status of work order A-73 is in Monitor Mode
+2025-08-13 23:43:58,625-INFO-Viewed work order with status: Monitor Mode
+2025-08-13 23:44:03,904-INFO-click on Actions
+2025-08-13 23:44:09,170-INFO-Clicked on action item: Print
+2025-08-13 23:44:15,430-ERROR-Failed to click on any action item.
+2025-08-13 23:44:35,741-INFO-click and enter input to delete field : DELETE
+2025-08-13 23:44:56,024-INFO-click on Confirm Delete
+2025-08-16 13:37:59,636-INFO-Test data loaded successfully.
+2025-08-16 13:38:03,844-INFO-Clicked on Apps.
+2025-08-16 13:38:05,599-INFO-Clicked on Module: Work Orders
+2025-08-16 13:38:05,831-INFO-Clicked on Sub Module: Airfield Work Orders
+2025-08-16 13:38:11,356-INFO-click on filters
+2025-08-16 13:38:11,509-INFO-click on clear filters
+2025-08-16 13:38:16,813-INFO-click on apply 
+2025-08-16 13:38:27,136-INFO-current status of work order A-73 is in Monitor Mode
+2025-08-16 13:38:27,299-INFO-Viewed work order with status: Monitor Mode
+2025-08-16 13:38:32,523-INFO-click on Actions
+2025-08-16 13:38:37,730-INFO-Clicked on action item: Print
+2025-08-16 13:38:43,989-ERROR-Failed to click on any action item.
+2025-08-16 13:39:04,052-INFO-click and enter input to delete field : DELETE
+2025-08-16 13:39:24,196-INFO-click on Confirm Delete
